@@ -66,7 +66,7 @@ Answer the following questions:
 
 ### Exercise 4: Strings
 
-Modify the framework so that strings are stored using escape charactersa
+Modify the framework so that strings are stored using escape characters
 like `\n` instead of being split across several lines.
 
 I suggest doing this in `objects.py`. 
