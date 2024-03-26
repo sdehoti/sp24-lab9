@@ -11,8 +11,8 @@ Enter your names here
 
 ## Team Roles for Part 1
 Who will start out as
-* DRIVER: Driver's name
-* NAVIGATOR: Navigator's name
+* DRIVER: Shahrom
+* NAVIGATOR: Rhys
 
 You will switch halfway through this activity.
 
@@ -21,7 +21,9 @@ You will switch halfway through this activity.
 Write your answers to the questions below.
 
 * What were the main ideas from SDX chapter 16?
+* Saving and loading objects and maintaining references to the right objects. Functions and objects should extensible but not modifiable.
 * What questions did you have about the material in the chapters? What did you find confusing?
+* Loading and saving is a bit confusing.
 
 ### Exercise 0: Running the tests
 
@@ -33,7 +35,7 @@ There is a glaring omission in the given code:a
 There is no test module for `objects.py`! 
 
 Copy `test_builtins.py` to a new file named `test_objects.py`. 
-Then modify it to test `objects.py` instead ofa` builtins.py`. 
+Then modify it to test `objects.py` instead of a ` builtins.py`. 
 (Make sure you add the new file to your git repositiory.)
 
 I thought of two strategies. Implement whichever you prefer:
