@@ -28,6 +28,7 @@ Write your answers to the questions below.
 ### Exercise 0: Running the tests
 
 Run the tests in all three test modules. (I've added some code to make this feasible.) Verify that all tests pass.
+* Everyone of them passed except the first one where 1/3 failed
 
 ### Exercise 1: Testing objects.py
 
@@ -44,6 +45,8 @@ I thought of two strategies. Implement whichever you prefer:
 2. Add convenience methods save and load to `objects.py`. 
 
 After doing this exercise, explain the strategy you chose, and why.
+
+We saved and loaded in the same function to reduce the number of tests and lines. It looks clean. We created a generic_test() function that tested the rest of the cases.
 
 ### Exercise 2: Refactoring `SaveObjects.save`
 

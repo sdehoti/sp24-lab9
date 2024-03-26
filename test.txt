@@ -1,0 +1,11 @@
+list:3
+str:1
+a
+dict:1
+str:1
+b
+float:987.6
+set:2
+bool:True
+str:1
+c
